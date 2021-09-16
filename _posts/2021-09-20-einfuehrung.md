@@ -1,6 +1,10 @@
 ---
-title: "Einführungsartikel"
-date: 2021-09-20
+title: "Wo bin ich gestartet"
+date: 2021-09-16
 ---
 
-Ich erwarte von diesem Kurs ...
+Tja, wo starte ich? 
+Bis auf ein paar Schnuppertage in unserer kleinen Gemeindebibliothek, die ich im Rahmen meines Fachpraktikums absolvieren durfte, habe ich keinerlei Erfahrung, weder im Bibliotheks- noch im Archivbereich. In diesen Schnuppertagen habe ich das System, welches die Bibliothek nutzt, gar nicht richtig wahrgenommen, sondern einfach als Nutzerin gesehen. Ich weiss deshalb nicht einmal, wie es heisst. Aufgrund dieser fehlenden praktischen Erfahrung konnte ich mir unter dem Modultitel "Bibliotheks- und Archivinformatik" nicht viel vorstellen. Was enthält so eine Bibliotheksinformatik? Welche Systeme gehören da dazu? Welche Technologien werden verwendet? Welche Tätigkeiten fallen im Bereich der Bibliotheks- und Archivinformatik an? Es zeigt sich: Mir fehlt der Gesamtüberblick. Hoffentlich gelingt es mir, diesen im Laufe dieses Moduls zu erlangen. 
+Zur Vorbereitung auf die heutige Vorlesung habe ich mir also die Modulbeschreibung etwas genauer angesehen, da ich mir unter dem Titel alleine noch nicht viel vorstellen konnte. Bei der Durchsicht der Modulinhalte fiel mir dann aber doch der eine oder andere Begriff ins Auge, den ich bereits einmal im Rahmen des Studiums gehört oder gelesen hatte.
+"Repositories" zum Beispiel: Zu diesem Thema hatten wir letzten Herbst ein längeres Paper geschrieben. Es ging dabei um das Repository der FHNW und wie dieses verbessert und standardisiert werden könnte. 
+"Metadatenstandards" ein weiterer Begriff, der aber eher unangenehme Erinnerungen an sehr langweilige Theorie weckt. Dublin Core, Marc21… Dadurch, dass ich diese Begriffe damals schon nicht an praktische Erfahrungen anknüpfen konnte, blieben sie für mich "graue Theorie". Ob sich das mit diesem Modul wohl ändern wird? Die Beschreibung lässt vermuten, dass in diesem Modul aktiver mit diesen Standards umgegangen wird: Es sollen unterschiedliche Datenbestände zusammengenommen werden und auf diese Sammlung dann verschieden Suchtechnologien angewandt werden. Ich bin gespannt und hoffe, dass das Modul die richtigen Anwendungsbeispiele zeigt, die es mir ermöglichen, diese diffusen Begriffe etwas besser einordnen zu können.
