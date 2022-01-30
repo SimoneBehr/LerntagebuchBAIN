@@ -1,6 +1,6 @@
 ---
 title: "Abschluss: Was habe ich (nicht) gelernt?"
-date: 2021-12-28
+date: 2022-01-28
 ---
 
 Ganz generell gab uns diese Vorlesung einen guten Überblick über verschiedene Systeme, aber auch die Arbeit mit verschiedenen Metadatenstandards. Dank dem Schaubild war die Übersicht über die Themen jederzeit gegeben und es war immer klar, wie die verschiedenen Aspekte zusammenhängen und wieso wir uns zum gegebenen Zeitpunkt mit einem bestimmten Thema beschäftigen. Die letzte Vorlesung war ein wunderbarer Gesamtüberblick, wie dieser Prozess denn jetzt in der Praxis genau aussieht, und für mich auch nochmals eine Repetition darüber, was wir in diesem Modul alles gemacht haben.
